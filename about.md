@@ -1,13 +1,23 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Acerca de
+permalink: /acerca/
 ---
 
-Encontranos en [Slack](http://livecode.slack.com/messages/live-coding-argentina).
+*[Live coding][livecoding]* es una técnica creativa y una práctica de
+performance que consiste en escribir código de manera improvisada.  Este grupo
+trata de reunir a aquellas personas que la practican o están interesadas en
+hacerlo. :-)
 
-Este es el link para poder registrarse (sin necesidad de invitación):
+Hacemos meetups cada tanto y solemos anunciarlas en el grupo de [Supercollider
+Buenos Aires][meetup] de Meetup.
 
-<http://live-code-slack.herokuapp.com/>
+También podés encontrarnos online en el canal [#live-coding-argentina][canal]
+en [livecode.slack.com][slack].  Si nunca entraste, primero tenés que
+registrarte [acá][invite].
 
-{% include footer.html %}
+[livecoding]: https://en.wikipedia.org/wiki/Live_coding
+[meetup]: https://www.meetup.com/es-ES/supercollider/
+[canal]: http://livecode.slack.com/messages/live-coding-argentina
+[slack]: http://livecode.slack.com/
+[invite]: http://live-code-slack.herokuapp.com/
