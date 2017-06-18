@@ -4,7 +4,7 @@ title: Acerca de
 permalink: /acerca/
 ---
 
-<iframe style="float: right" width="225" height="570" src="http://meetu.ps/3bf0yW" frameborder="0"></iframe>
+<iframe style="float: right" width="225" height="570" src="https://meetu.ps/3bf0yW" frameborder="0"></iframe>
 
 *[Live coding][livecoding]* es una técnica creativa y una práctica de
 performance que consiste en escribir código de manera improvisada.  Este grupo
