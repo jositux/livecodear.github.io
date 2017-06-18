@@ -21,6 +21,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://livecodear.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: livecodear
 github_username: livecodear
+disqus:
+  shortname: livecodear-github-io
+comments: true
+excerpt_separator: <!--more-->
 
 # Build settings
 markdown: kramdown
@@ -31,4 +35,3 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-excerpt_separator: <!--more-->
