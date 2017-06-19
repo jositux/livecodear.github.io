@@ -28,7 +28,7 @@ layout: default
           {{ post.excerpt | number_of_words }}
         {% endcapture %}
         {% if excerpt_words != content_words %}
-          <a href="{{ post.url | relative_url }}/#read-more">Leer más <i class="fa fa-arrow-circle-right"></i></a>
+        <p><a href="{{ post.url | relative_url }}/#read-more">Leer más <i class="fa fa-arrow-circle-right"></i></a></p>
         {% endif %}
       </li>
     {% endfor %}
