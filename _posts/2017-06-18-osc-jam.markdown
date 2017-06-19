@@ -1,0 +1,32 @@
+---
+layout: post
+title: "OSC Jam"
+date: 2017-06-18 23:24:50 -0300
+categories: eventos
+---
+![Casoabierto](/assets/img/oscjam/casoabierto.jpeg)
+
+El sábado 10 de junio se realizó un encuentro y performance abierto en el
+Centro de Arte Sonoro de la Casa Nacional del Bicentenario.  La premisa del
+evento era dividir al conjunto de participantes en 2 grupos, cada uno con un
+rol diferente:
+
+1. *Productores*: Generar mensajes OSC de algún tipo, desde patrones hasta
+   controladores físicos como instrumentos MIDI, joysticks, etc.
+2. *Consumidores*: Sonificar y/o visualizar los mensajes de otros
+   participantes.
+
+<!--break-->
+
+* [Más fotos y videos](https://goo.gl/photos/H4EjFwfsQvZnzaVG7)
+* [Grabaciones (de ambiente)](http://redpanal.org/p/osc-jam/)
+
+Algunas fotos del evento:
+
+![](/assets/img/oscjam/01.jpg)
+![](/assets/img/oscjam/02.jpg)
+![](/assets/img/oscjam/03.jpg)
+![](/assets/img/oscjam/04.jpg)
+![](/assets/img/oscjam/05.jpg)
+![](/assets/img/oscjam/06.jpg)
+![](/assets/img/oscjam/07.jpg)
