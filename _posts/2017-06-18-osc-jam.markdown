@@ -6,10 +6,10 @@ categories: eventos
 ---
 ![Casoabierto](/assets/img/oscjam/casoabierto.jpeg)
 
-El sábado 10 de junio se realizó un encuentro y performance abierto en el
-Centro de Arte Sonoro de la Casa Nacional del Bicentenario.  La premisa del
-evento era dividir al conjunto de participantes en 2 grupos, cada uno con un
-rol diferente:
+El sábado 10 de junio se realizó un [encuentro][event] y performance abierto en
+el [Centro de Arte Sonoro][caso] de la Casa Nacional del Bicentenario.  La
+premisa del evento era dividir al conjunto de participantes en 2 grupos, cada
+uno con un rol diferente:
 
 1. *Productores*: Generar mensajes OSC de algún tipo, desde patrones hasta
    controladores físicos como instrumentos MIDI, joysticks, etc.
@@ -30,3 +30,6 @@ Algunas fotos del evento:
 ![](/assets/img/oscjam/05.jpg)
 ![](/assets/img/oscjam/06.jpg)
 ![](/assets/img/oscjam/07.jpg)
+
+[event]: https://www.meetup.com/es-ES/supercollider/events/240353022/?eventId=240353022
+[caso]: https://www.facebook.com/CASoCNB/
