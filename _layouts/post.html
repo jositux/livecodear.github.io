@@ -16,7 +16,7 @@ layout: default
   </header>
 
   <div class="post-content" itemprop="articleBody">
-    {{ content }}
+    {{ content | replace: '<!--break-->', '<a class="anchor" id="read-more"></a>' }}
   </div>
 
   {% if site.disqus.shortname %}

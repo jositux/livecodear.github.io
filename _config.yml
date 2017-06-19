@@ -24,7 +24,7 @@ github_username: livecodear
 disqus:
   shortname: livecodear-github-io
 comments: true
-excerpt_separator: <!--more-->
+excerpt_separator: <!--break-->
 
 # Build settings
 markdown: kramdown

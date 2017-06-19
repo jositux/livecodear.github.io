@@ -5,7 +5,7 @@ layout: default
 <div class="home">
 
   <h1 class="page-heading">Entradas</h1>
-  
+
   {{ content }}
 
   <ul class="post-list">
@@ -17,7 +17,19 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
+
         {{ post.excerpt }}
+
+        <!-- Show Read more link if there is more to read -->
+        {% capture content_words %}
+          {{ post.content | number_of_words }}
+        {% endcapture %}
+        {% capture excerpt_words %}
+          {{ post.excerpt | number_of_words }}
+        {% endcapture %}
+        {% if excerpt_words != content_words %}
+          <a href="{{ post.url | relative_url }}/#read-more">Leer más <i class="fa fa-arrow-circle-right"></i></a>
+        {% endif %}
       </li>
     {% endfor %}
   </ul>
