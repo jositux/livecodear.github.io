@@ -15,8 +15,8 @@ Nuestra vía preferencial de comunicación es el canal [#live-coding-argentina][
 en [livecode.slack.com][slack] porque es donde es más fluido el feedback de la comunidad 
 global de livecoding.  Si nunca entraste, primero tenés que registrarte [acá][invite].
 
-Hacemos meetups cada tanto y solemos anunciarlas también en otros grupos como el de [Supercollider
-Buenos Aires][meetup] de Meetup o por Facebook en [Liveconding Argentina][facebook].
+Hacemos meetups cada tanto y solemos anunciarlas también en otros grupos como el de [Supercollider Buenos Aires][meetup] 
+de Meetup o por Facebook en [Liveconding Argentina][facebook].
 
 [livecoding]: https://en.wikipedia.org/wiki/Live_coding
 [meetup]: https://www.meetup.com/es-ES/supercollider/
