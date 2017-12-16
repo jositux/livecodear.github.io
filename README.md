@@ -8,7 +8,7 @@ en el canal #live-coding-argentina
 [Este es el link](http://live-code-slack.herokuapp.com) para poder registrarse
 (sin necesidad de invitacion):
 
-*Próximo evento*: @[meetup ba](http://meetu.ps/39TsJ2)
+*Próximo evento*: sábado 13 de enero de 2018, en CASo.
 
 ## Links útiles
 
