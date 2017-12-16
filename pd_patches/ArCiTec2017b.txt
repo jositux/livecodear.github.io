@@ -1,0 +1,4 @@
+El otro día me invitaron a codear en la presentación del premio ArCiTec 
+y, como llegué temprano, me puse a armar un parche con pwm, fm y visuales.
+Estoy muy copado con el objeto de GEM pix_sig2rgb que te permite convertir
+bloques de audio en valores de color...
