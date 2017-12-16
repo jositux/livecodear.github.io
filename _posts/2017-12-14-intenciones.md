@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Intenciones"
+date: 2017-12-14
+categories: eventos
+---
+
 ## Documento abierto de intenciones para la reuninón del 14-12-2017
 
 **Livecoding no es una marca**, es un tipo de performance artística. Livecoding es programación creativa, audiovisual, en tiempo real, 
