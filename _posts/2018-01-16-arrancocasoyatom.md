@@ -17,6 +17,6 @@ Nos vemos muy pronto el 8 en Mi Casa para, como diría Machito Ponce, hacer temb
 
 Saludos!
 
-[minuta]: (https://docs.google.com/document/d/1U2Ena9M-Qyar8VQ-44A5J24ViLO9LRhXP2Gv56zEwTI/edit?usp=sharing)
-[fotos]: (https://www.facebook.com/media/set/?set=oa.144944709553048&type=3)
-[video]: (https://www.youtube.com/playlist?list=PLWXpxg3HmtmC7kGDClTQpdSYWWxjo8O2l)
+[minuta]: https://docs.google.com/document/d/1U2Ena9M-Qyar8VQ-44A5J24ViLO9LRhXP2Gv56zEwTI/edit?usp=sharing
+[fotos]: https://www.facebook.com/media/set/?set=oa.144944709553048&type=3
+[video]: https://www.youtube.com/playlist?list=PLWXpxg3HmtmC7kGDClTQpdSYWWxjo8O2l
