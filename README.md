@@ -1,6 +1,6 @@
 # livecodear.github.io
 
-**Club de amigos del código y la música**
+**Club de amigues del código y la música**
 
 Encontranos en [Live coding Slack](https://livecode.slack.com/messages/live-coding-argentina),
 en el canal #live-coding-argentina

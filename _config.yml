@@ -16,7 +16,7 @@
 title: LivecodeAr
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Club de amigos del código y la música
+  Club de amigues del código y la música
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://livecodear.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: livecodear
