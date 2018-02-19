@@ -28,7 +28,7 @@ Invitamos a todas las personas que participan de nuestros eventos a ayudarnos a 
 * Ejercitamos la consideración y el respeto en nuestro discurso y nuestras acciones.
 * Intentamos colaborar para evitar conflictos.
 * Nos abstenemos de discursos o comportamientos despectivos, discriminatorios o abusivos.
-* Promulgamos la conciencia del entorno y de las otras participantes. Nos alertamos ante situaciones peligrosas, comprometedoras o que violen de alguna manera este Código. ("incluso si parecieran poco importantes" por qué?, lo sacaría). // +
+* Promulgamos la conciencia del entorno y de las otras participantes. Nos alertamos ante situaciones peligrosas, comprometedoras o que violen de alguna manera este Código.
 
 
 
