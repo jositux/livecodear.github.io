@@ -13,7 +13,7 @@ permalink: /codigo-de-convivencia/
 Un objetivo principal de todas las conferencias/conciertos/talleres y grupos de usuarixs que se refieran a este CoCo es ser inclusivos para la mayor cantidad de personas, con la mayor variedad de orígenes y conocimientos posibles.
 Como tal, nos comprometemos a ofrecer un ambiente amigable, seguro y acogedor para todas las personas, sin importar género, orientación sexual, capacidad, etnia, estado socio-económico o creencia.
 
-Este Código expresa nuestras expectativas con respecto a quienes participan de nuestra comunidad. (", así como también las consecuencias de comportamientos inaceptables" no está especificado, tampoco me parece necesario).
+Este Código expresa nuestras expectativas con respecto a quienes participan de nuestra comunidad.
 
 Invitamos a todas las personas que participan de nuestros eventos a ayudarnos a crear experiencias seguras y positivas para todxs.
 
