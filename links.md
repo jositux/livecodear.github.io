@@ -6,7 +6,7 @@ permalink: /links/
 
 Enlaces que nos parecen interesantes (?)
 
-* [Invite al slack](http://live-code-slack.herokuapp.com/)
+* [Chat de la comunidad Toplap](https://talk.lurk.org/channel/live-coding-argentina)
 * [Lista de lenguajes y herramientas de livecoding](https://github.com/lvm/awesome-livecoding)
 * [Traducciones de tesis de Yaxu al español](https://github.com/rapofran/slab.org-publications-translations-es)
 * [Toplap](https://toplap.org): El hogar del livecoding
